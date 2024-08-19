@@ -37,7 +37,7 @@ Provide an example of a vague prompt and then improve it by making it clear, spe
 
                            ASSIGNMENT ANSWER
 
-Part 1: Introduction to Software Engineering
+Part 1: Introduction to Software Engineering!!!
 What is Software Engineering?
 
 Software engineering is the systematic application of engineering principles to the design, development, testing, deployment, and maintenance of software. It involves using methodologies, tools, and practices to ensure that software is reliable, efficient, scalable, and meets the specified requirements. In the technology industry, software engineering is crucial because it enables the development of complex software systems that are essential for modern businesses, government operations, healthcare, education, and more.
@@ -107,7 +107,7 @@ Acceptance Testing: Performed by the end-users or clients to ensure that the sof
 
 
 
-Part 2: Introduction to AI and Prompt Engineering
+Part 2: Introduction to AI and Prompt Engineering!!!
 What is Prompt Engineering?
 
 Prompt engineering is the process of designing and refining the input prompts given to AI models, such as ChatGPT, to generate accurate, relevant, and useful responses. It is crucial for effectively interacting with AI, as well-crafted prompts can lead to better outcomes in terms of the quality and relevance of the AI's output.
